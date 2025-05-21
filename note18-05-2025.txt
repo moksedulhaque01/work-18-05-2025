@@ -1,0 +1,59 @@
+HTMl - content
+meaning -
+Hypertext Markup Language
+
+How it works
+why html
+	document - paper
+	doc - online - browser - html - info/data - form -
+
+version
+	html5
+
+	ques - 
+
+	review
+		add
+		delete
+		modify
+
+		1
+		2/1.2
+
+
+html project
+	project folder
+	file
+		index.html file- .html - home -> index
+		css -
+		js
+		images
+
+template
+
+	<!doctype html>
+	<html>
+		<head></head> 
+		<body></body> 
+	</html>
+
+news
+	heading - title
+	desc    - text
+	image
+		cdn
+		file
+
+	img
+	scr=""
+	alt=""
+css
+3 types of css
+inline
+internal
+external
+	
+
+audio
+video
+link
